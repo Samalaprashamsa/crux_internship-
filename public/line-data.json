@@ -1,0 +1,33 @@
+{
+    "labels": ["January", "February", "March", "April", "May", "June", "July"],
+    "datasets": [
+      {
+        "label": "Dataset 1",
+        "data": [65, 59, 80, 81, 56, 55, 40],
+        "fill": false,
+        "borderColor": "rgb(75, 192, 192)",
+        "lineTension": 0.1,
+        "pointRadius": 0,
+        "pointHoverRadius": 0
+      },
+      {
+        "label": "Dataset 2",
+        "data": [45, 60, 70, 75, 50, 65, 55],
+        "fill": false,
+        "borderColor": "rgb(255, 99, 132)",
+        "lineTension": 0.1,
+        "pointRadius": 0,
+        "pointHoverRadius": 0
+      },
+      {
+        "label": "Dataset 3",
+        "data": [35, 50, 65, 70, 45, 60, 50],
+        "fill": false,
+        "borderColor": "rgb(54, 162, 235)",
+        "lineTension": 0.1,
+        "pointRadius": 0,
+        "pointHoverRadius": 0
+      }
+    ]
+  }
+  
